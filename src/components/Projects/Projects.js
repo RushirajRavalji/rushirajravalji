@@ -32,30 +32,7 @@ function Projects() {
 <p>
  Comming soon 
 </p>
-          {/* <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={myStack}
-              isBlog={false}
-              title="My Stack OverFlow"
-              description="My Stack Overflow is a web-based platform designed to replicate the functionality of Stack Overflow, a popular question and answer community for programmers and tech enthusiasts. I created a clone version of it for learning purpose and added more features like User’s Location using Google Maps API and storing Users Technology details which is useful learning."
-              ghLink="https://github.com/Jikkesh/stackOverFlowClone-server"
-              demoLink="https://stackoverflow-jikkesh.netlify.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={userHub}
-              isBlog={false}
-              title="Film Insider Blog"
-              description="Developed a full-stack web application, FilmInsider Blog, using Angular for the frontend and Node.js
-              with MongoDB for the backend. This project showcases CRUD operations for blog posts and comments,
-              along with user management functionalities. Users can create, read, update, and delete blog posts and
-              comments, and role-based access control is implemented to manage user permissions effectively."
-              ghLink="https://github.com/Jikkesh/UserHub-Angular"
-              demoLink="https://filminsider-blog.netlify.app/"
-            />
-          </Col> */}
+         
 
 
         <h1 className="project-heading">
